@@ -4,7 +4,7 @@
     - AMI (Image): `Amazon Linux 2`
     - Key pair: Select or Create
     - Security group ports: `8080` and `22`
-    - User Data or Login and Install Jenkins: https://github.com/sylvanus-mofor/gradle-nexus-sonarqube-jenkins-cicd-prj/blob/master/userdata.md
+    - User Data or Login and Install Jenkins: [https://github.com/sylvanus-mofor/gradle-nexus-sonarqube-jenkins-cicd-prj/blob/master/userdata.md](https://github.com/sylvanus-mofor/gradle-nexus-sonarqube-jenkins-cicd-prj/blob/master/jenkins-userdata.md)
     - Launch Instance 
 
 
