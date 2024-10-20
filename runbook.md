@@ -4,7 +4,7 @@
     - AMI (Image): `Amazon Linux 2`
     - Key pair: Select or Create
     - Security group ports: `8080` and `22`
-    - User Data or Login and Install Jenkins: https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/jenkins-declarative-master-client-confg/runbooks/jenkins-install.md
+    - User Data or Login and Install Jenkins: https://github.com/sylvanus-mofor/gradle-nexus-sonarqube-jenkins-cicd-prj/blob/master/userdata.md
     - Launch Instance 
 
 
