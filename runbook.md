@@ -15,7 +15,7 @@
     - Instance type: `t2.micro`
     - Security Group (Open): `22` to `0.0.0.0/0`
     - Key pair: Select or create a new keypair
-    - User data (Copy the following user data): https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/jenkins-declarative-master-client-confg/runbooks/maven-install.md
+    - User data (Copy the following user data): https://github.com/sylvanus-mofor/gradle-nexus-sonarqube-jenkins-cicd-prj/blob/master/maven%2Bgradle-userdata.md
     - Launch Instance
 
 ### B) Create Your GRADLE Client Build Environment
