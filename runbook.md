@@ -33,8 +33,14 @@
  - Maven JAVA Version   (version 11)
  - Gradle JAVA Version  (version 11)
 
-## 3️⃣ Configure Nexus
-### Login to Nexus
+## 3️⃣ Configure Nexus and log in to NEXUS
+Name: Nexus
+instance_type: t2_medium
+Keypair: Create or select
+Open port 8081 in Security Group
+Userdata: LINK HERE
+
+When the nexus server is up and running, run ```cat /opt/sonatype-work/nexus3/admin.password``` to obtain the password. Default username is: admin
   A) CREATE MAVEN PROJECT ARTIFACT REPOSITORY
   - Click on the Admin Repository Secition
     - Click on `Repositories`
