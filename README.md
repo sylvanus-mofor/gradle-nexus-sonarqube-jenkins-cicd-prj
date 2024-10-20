@@ -1,4 +1,4 @@
-###Jenkins Master and Client/Slave Project###
+###Jenkins Master and Client Project###
 
 PROBLEM STATEMENT
 Optimizing Development CI Automation Pipeline Infrastructure with Jenkins Master-Slave Architecture Implementation.
